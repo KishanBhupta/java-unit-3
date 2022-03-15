@@ -18,3 +18,7 @@ class tryblock
     System.out.println("Casual Flow");
     }
 }
+
+output :
+Array indext out of bound : 5
+Casual flow 
